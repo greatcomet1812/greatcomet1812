@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sewon Sohn</h1>
 <h3 align="center">A third-year CS student at the University of Oregon</h3>
 
-- 📫 How to reach me: **sewonsohn00@gmail.com**
+📫 How to reach me: **sewonsohn00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

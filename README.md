@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sewon Sohn</h1>
-<h3 align="center">A third-year CS student at the University of Oregon</h3>
+<h3 align="center">A fourth-year CS student at the University of Oregon and an aspiring full-stack developer</h3>
 
 - 📫 How to reach me: **sewonsohn00@gmail.com**
 

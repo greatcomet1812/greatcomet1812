@@ -6,7 +6,7 @@ Computer Science graduate focused on building backend systems and practical AI-p
 
 - 🎓 B.S. in Computer Science, University of Oregon (2025)
 - 📫 Contact: sewonsohn00@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/sewon-sohn-7bbb521ab/
+- 🔗 LinkedIn: https://linkedin.com/in/sewon-sohn
 
 ---
 

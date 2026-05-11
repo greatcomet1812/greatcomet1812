@@ -1,6 +1,6 @@
 # Sewon Sohn
 
-**Backend & AI Application Engineer**
+**Backend & AI-driven Dev**
 
 Computer Science graduate focused on building backend systems and practical AI-powered applications.  
 

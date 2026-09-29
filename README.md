@@ -2,7 +2,7 @@
 
 **Backend & AI-driven Dev**
 
-Computer Science graduate focused on building backend systems and practical AI-powered applications.  
+Computer Science graduate focused on building backend systems and AI services.
 
 - 🎓 B.S. in Computer Science, University of Oregon (2025)
 - 🔗 LinkedIn: https://linkedin.com/in/sewon-sohn
